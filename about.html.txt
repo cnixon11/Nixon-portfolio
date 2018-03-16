@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+
+<html>
+
+	<head>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+		<title>About</title>
+	</head>
+	<body>
+	<h1>About Me, Christine Nixon</h1>
+		
+			<div class="links">
+
+			<a href="index.html">Home </a>
+			<a href="contact.html">Contact </a>
+
+			</div>
+
+	<fieldset class="about">
+
+	Welcome! My name is <strong>Christine</strong> and I am originally from Pleasant Ridge, Michigan. <p>I
+ 	have three daughters, <strong>Amber </strong> and <strong>Sierra </strong> and <strong>Sage </strong
+ 	.</p><p>
+ 		I currently work as an Anesthesia Tech at, <strong>William Beaumont Hospital</strong>, for the past 8 years.  </p>
+
+	</fieldset>
+
+	<fieldset class="about">
+
+	<h3>Facts About Me:</h3>
+	<ol>
+
+		<li>I like to workout</li>
+		<li>Mother of three</li>
+		<li>I like to paint</li>
+	</ol>
+	
+	<h3>My Favorite Books:,/h3>
+	<ul>
+		<li>And Still I Rise by Maya Angelou</li>
+		<li>I Know Why The Caged Bird Sings by Maya Angelou</li>
+		<li>Who Moved My Cheese by Blanchard and Johnson</li>
+
+	</fieldset>
+
+	</body>
+
+</html>
