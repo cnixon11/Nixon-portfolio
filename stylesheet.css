@@ -1,0 +1,83 @@
+h1 {
+	color: Turquoise;
+	text-align: center;
+	border: 5px solid black;
+	font-family: 'Yantra One';
+	font-size: 52px;
+	font-family: 'Yatra One';font-size: 52px;
+}
+
+h2 {
+	color: Turquoise;
+	text-align: center;
+	text-decoration-style: underline; 
+}
+
+a:hover {
+	background-color: orange;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+    border-radius: 10%;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+div.a {
+	text-align: center;
+	font-family: 'The Girl Next Door';
+	font-size: 22px;
+}
+
+<link 
+href='https://fonts.googleapis.com/css?family=Yatra One'
+rel='stylesheet'>
+
+<link
+href='https://fonts.googleapis.com/scc?family=Girl Next Door'
+rel='stylesheet'>
+
+p{
+	text-align: center;
+}
+
+form {
+	border: 5px solid black;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+ol {
+	background: turquoise;
+	padding: 20px;
+	text-align: center;
+}
+
+ul {
+	background: turquoise;
+	padding: 20px;
+	text-align: center;
+}
+
+ol li {
+	background: #cce5ff;
+	padding: 5px;
+	margin: 15px;
+
+}
+
+ul li {
+	background: #cce5ff;
+	padding: 5px;
+	margin: 15px;
+}
